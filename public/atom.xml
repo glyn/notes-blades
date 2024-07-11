@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
     <title>notes</title>
-    <link rel="related" href="" />
-    <id></id>
+    <link rel="related" href="https://notes.underlap.org" />
+    <id>https://notes.underlap.org</id>
     <author>
         <name>Glyn Normington</name>
         
     </author>
     <subtitle></subtitle>
     <generator>blades</generator>
-    <updated>2024-07-11T13:57:07Z</updated>
+    <updated>2024-07-11T15:25:03Z</updated>
 
 
     <entry>
         <title>Index</title>
-        <link rel="alternate" href="/" />
-        <id></id>
+        <link rel="alternate" href="https://notes.underlap.org/" />
+        <id>https://notes.underlap.org</id>
         <summary></summary>
         <content><code class="highlighted">
 <p><strong>bla</strong>zing fast
@@ -31,8 +31,8 @@
 
     <entry>
         <title></title>
-        <link rel="alternate" href="/jsonpath-reference-information.html" />
-        <id>/jsonpath-reference-information</id>
+        <link rel="alternate" href="https://notes.underlap.org/jsonpath-reference-information.html" />
+        <id>https://notes.underlap.org/jsonpath-reference-information</id>
         <summary></summary>
         <content><h1>JSONPath reference information</h1>
 <p>JSONPath is described on <a href="https://en.wikipedia.org/wiki/JSONPath">wikipedia</a> and was standardised as <a href="https://www.rfc-editor.org/rfc/rfc9535">RFC 9535</a>. The background to the RFC is described in <a href="https://underlap.org/jsonpath-from-blog-post-to-rfc-in-17-years">JSONPath: from blog post to RFC in 17 years</a> (also available on the <a href="https://www.ietf.org/blog/jsonpath-rfc/">IETF blog</a>)</p>

@@ -10,7 +10,7 @@
     </author>
     <subtitle></subtitle>
     <generator>blades</generator>
-    <updated>2024-07-11T13:50:13Z</updated>
+    <updated>2024-07-11T13:57:07Z</updated>
 
 
     <entry>
@@ -26,6 +26,30 @@
 <p>Blades is made to do one job - generate HTML files from the provided</p>
 </content>
         <updated>2024-07-11T13:44:06Z</updated>
+    </entry>
+    
+
+    <entry>
+        <title></title>
+        <link rel="alternate" href="/jsonpath-reference-information.html" />
+        <id>/jsonpath-reference-information</id>
+        <summary></summary>
+        <content><h1>JSONPath reference information</h1>
+<p>JSONPath is described on <a href="https://en.wikipedia.org/wiki/JSONPath">wikipedia</a> and was standardised as <a href="https://www.rfc-editor.org/rfc/rfc9535">RFC 9535</a>. The background to the RFC is described in <a href="https://underlap.org/jsonpath-from-blog-post-to-rfc-in-17-years">JSONPath: from blog post to RFC in 17 years</a> (also available on the <a href="https://www.ietf.org/blog/jsonpath-rfc/">IETF blog</a>)</p>
+<p>Implementers may also find the following useful:</p>
+<ul>
+<li><a href="https://github.com/jsonpath-standard/jsonpath-compliance-test-suite">JSONPath Compliance Test Suite</a></li>
+<li>Blog posts:
+<ul>
+<li><a href="https://underlap.org/testing-non-determinism">Testing non-deterministic behaviour</a></li>
+<li><a href="https://underlap.org/process-algebra-and-jsonpath-descendant-segment-semantics">Process algebra and JSONPath descendant segment semantics</a></li>
+</ul>
+</li>
+<li><a href="https://cburgmer.github.io/json-path-comparison/">JSONPath comparison project</a></li>
+<li><a href="https://mailarchive.ietf.org/arch/browse/jsonpath/">JSONPath mailing list archive</a></li>
+</ul>
+</content>
+        <updated>2024-07-11T13:56:45Z</updated>
     </entry>
     
 

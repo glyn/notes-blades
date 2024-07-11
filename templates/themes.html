@@ -1,0 +1,12 @@
+{{>head.html}}
+<div class="full">
+    <article id="content">{{content}}</article>
+    <section id="theme-grid">{{#pages}}
+        <a class="theme shadowed" href="{{permalink}}">
+            {{#image}}<img src="{{site url}}/{{image}}"/>{{/image}}
+            <h1>{{title}}</h1>
+            <p>{{summary}}</p>
+        </a>
+    {{/pages}}</section>
+</div>
+{{>foot.html}}

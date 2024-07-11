@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>notes</title>
+    <link rel="related" href="" />
+    <id></id>
+    <author>
+        <name>Glyn Normington</name>
+        
+    </author>
+    <subtitle></subtitle>
+    <generator>blades</generator>
+    <updated>2024-07-11T13:50:13Z</updated>
+
+
+    <entry>
+        <title>Index</title>
+        <link rel="alternate" href="/" />
+        <id></id>
+        <summary></summary>
+        <content><code class="highlighted">
+<p><strong>bla</strong>zing fast
+<strong>de</strong>ad simple
+<strong>s</strong>tatic site generator</p>
+</code>
+<p>Blades is made to do one job - generate HTML files from the provided</p>
+</content>
+        <updated>2024-07-11T13:44:06Z</updated>
+    </entry>
+    
+
+</feed>

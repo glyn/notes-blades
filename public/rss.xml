@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    
+        <title>notes</title>
+        <link></link>
+        <description></description>
+        <ttl>1440</ttl>
+        <generator>blades</generator>
+        <pubDate>Thu, 11 Jul 2024 13:50:13 GMT</pubDate>
+        
+    
+    
+        <item>
+            <title>Index</title>
+            <link>/</link>
+            <description></description>
+            <pubDate>Thu, 11 Jul 2024 13:44:06 GMT</pubDate>
+        </item>
+        
+    
+    </channel>
+</rss>

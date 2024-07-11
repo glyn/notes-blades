@@ -1,0 +1,14 @@
+{{>head.html}}
+<div class="full">
+    <article id="content">
+        <h1>{{title}}</h1>
+        {{#author}}by <strong>{{author}}</strong>{{/author}}
+        {{#image}}<img src="{{site url}}/{{image}}"/>{{/image}}
+        {{#summary}}<p>{{summary}}</p>{{/summary}}
+        {{#preview}}<p><a href="{{{preview}}}" target="_blank">Live demo</a></p>{{/preview}}
+        {{content}}
+        {{#repository}}<p><a href="{{{repository}}}" target="_blank">Repository</a></p>{{/repository}}
+    </article>
+    {{>prevnext.html}}
+</div>
+{{>foot.html}}

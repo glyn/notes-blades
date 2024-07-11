@@ -1,0 +1,11 @@
+{{>head.html}}
+<div id="navwrap">
+    <nav id="pagesnav" class="shadowed">{{#parent}}{{#pages}}
+        <a class="pagelink {{#active}}active{{/active}}" href="{{path}}/{{slug}}.html">{{title}}</a>
+    {{/pages}}{{/parent}}</nav>
+</div>
+<div class="full">
+    <article id="content"><h1>{{title}}</h1>{{content}}</article>
+    {{>prevnext.html}}
+</div>
+{{>foot.html}}
